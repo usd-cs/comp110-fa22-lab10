@@ -41,7 +41,7 @@ def main():
     # election data for the user-entered region.
     # Each wedge of the pie should be labeled with the candidate's name and
     # should have the "traditional" coloring (red for Republican, blue for
-    # Democratic, and white for third-party/other).
+    # Democratic, and black for third-party/other).
     # You should set a label for the pie chart that reads "Election results for
     # California", but modified so that "California" is replaced with whatever
     # region name the user entered.
