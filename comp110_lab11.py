@@ -24,8 +24,8 @@ def main():
 
     election_filename = input("Enter the name of the election data file: ")
 
-    # To Do: Step 1 - Use your get_election_results to get a dictionary with
-    # data
+    # To Do: Step 1 - Call your get_election_results function to get a
+    # dictionary with data. The code should go right below this comment.
 
 
     region_name = input("Enter the name of the state you want to graph: ")
@@ -33,7 +33,8 @@ def main():
     # To Do: Step 2 - Validate that the user-entered region name is a valid one
     # For example, "California" is valid while "Jefferson" is not valid.
     # You should continually re-prompt the user to enter a region name until
-    # they enter a valid one.
+    # they enter a valid one. Again, the code should go immediately after this
+    # comment.
     # Hint: the "in" operator will be very helpful here.
 
 
