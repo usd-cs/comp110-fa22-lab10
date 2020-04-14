@@ -1,7 +1,7 @@
 """
-Module: comp110_lab09
+Module: comp110_lab11
 
-Code for COMP110 Lab Session 09 (Dictionaries and Elections)
+Code for COMP110 Lab Session 11 (Dictionaries and Elections)
 
 Authors:
 1) Name - USD Email Address
